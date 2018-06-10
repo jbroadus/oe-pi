@@ -1,3 +1,3 @@
 #!/bin/bash
 
-build-oe/build.sh core-image-base
+build-oe/build-poky.sh core-image-base
